@@ -2,10 +2,15 @@ This Project was Built as an experimental system to evaluate how large language 
 
 ### What It Does -
 • Fetches live stock prices using Yahoo Finance
+
 • Collects and scrapes latest financial news
+
 • Summarizes multiple articles using an LLM (Hugging Face Router)
+
 • Classifies sentiment using FinBERT
+
 • Generates Buy / Hold / Sell recommendations
+
 • Displays insights through a Streamlit dashboard
 
 ### AI & Tech Stack - 
