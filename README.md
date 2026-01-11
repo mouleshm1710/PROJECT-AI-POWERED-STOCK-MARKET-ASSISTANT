@@ -19,11 +19,11 @@ Market Data	Yahoo Finance, Web Scraping	BeautifulSoup, Dashboard	Streamlit, Plot
 
 ### Application Screens -
 
-![](App_Screenshot1.jpg)
+#### Screenshot 1 - ![](App_Screenshot1.jpg)
 
-![](App_Screenshot2.jpg) 
+#### Screenshot 2 - ![](App_Screenshot2.jpg) 
 
-![](App_Screenshot3.jpg)
+#### Screenshot 3 - ![](App_Screenshot3.jpg)
 
 ### Run Locally -
 git clone https://github.com/mouleshm1710/PROJECT-AI-POWERED-STOCK-MARKET-ASSISTANT
